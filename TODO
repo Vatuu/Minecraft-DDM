@@ -1,0 +1,9 @@
++----------------+
+|Still left to do|
++----------------+
+
+- Add some bloody structure, ffs.
+- More creatures.
+- Shifting to local DB, instead of flat JSON file.
+- Get a prototype working.
+

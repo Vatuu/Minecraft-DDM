@@ -1,0 +1,10 @@
+name: DungeonDiceMonsters
+version: ALPHA_0.1
+main: net.arikia.ddm.DDM
+prefix: DDM
+authors: [Vatuu]
+description: Herpaderp
+website: arikia.net
+
+commands:
+  ddm:

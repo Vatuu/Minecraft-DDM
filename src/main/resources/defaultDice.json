@@ -1,0 +1,154 @@
+[
+  {
+    "dm": {
+      "model": 1,
+      "name": "Blue-Eyes White Dragon",
+      "type": "FLYING",
+      "class": "DRAGON",
+      "level": 4,
+      "hp": 5,
+      "atk": 40,
+      "def": 30,
+      "dice": [
+        {
+          "crest": "SUMMON4",
+          "count": 1
+        },
+        {
+          "crest": "MOVE",
+          "count": 1
+        },
+        {
+          "crest": "MOVE",
+          "count": 2
+        },
+        {
+          "crest": "ATTACK",
+          "count": 4
+        },
+        {
+          "crest": "DEFENSE",
+          "count": 1
+        },
+        {
+          "crest": "SPELL",
+          "count": 1
+        }
+      ]
+    }
+  },
+  {
+    "dm": {
+      "model": 2,
+      "name": "Mystical Elf",
+      "type": "MONSTER",
+      "class": "SPELLCASTER",
+      "level": 1,
+      "hp": 2,
+      "atk": 10,
+      "def": 20,
+      "dice": [
+        {
+          "crest": "SUMMON1",
+          "count": 1
+        },
+        {
+          "crest": "SUMMON1",
+          "count": 1
+        },
+        {
+          "crest": "SUMMON1",
+          "count": 1
+        },
+        {
+          "crest": "SUMMON1",
+          "count": 1
+        },
+        {
+          "crest": "MOVE",
+          "count": 2
+        },
+        {
+          "crest": "SPELL",
+          "count": 4
+        }
+      ]
+    }
+  },
+  {
+    "dm": {
+      "model": 3,
+      "name": "Hitotsu-me Giant",
+      "type": "MONSTER",
+      "class": "BEAST",
+      "level": 2,
+      "hp": 1,
+      "atk": 20,
+      "def": 20,
+      "dice": [
+        {
+          "crest": "SUMMON2",
+          "count": 1
+        },
+        {
+          "crest": "SUMMON2",
+          "count": 1
+        },
+        {
+          "crest": "SUMMON2",
+          "count": 1
+        },
+        {
+          "crest": "ATTACK",
+          "count": 2
+        },
+        {
+          "crest": "DEFENSE",
+          "count": 2
+        },
+        {
+          "crest": "SPELL",
+          "count": 1
+        }
+      ]
+    }
+  },
+  {
+    "dm": {
+      "model": 4,
+      "name": "Baby Dragon",
+      "type": "FLYING",
+      "class": "DRAGON",
+      "level": 1,
+      "hp": 1,
+      "atk": 10,
+      "def": 10,
+      "dice": [
+        {
+          "crest": "SUMMON1",
+          "count": 1
+        },
+        {
+          "crest": "SUMMON1",
+          "count": 1
+        },
+        {
+          "crest": "SUMMON1",
+          "count": 1
+        },
+        {
+          "crest": "SUMMON1",
+          "count": 1
+        },
+        {
+          "crest": "ATTACK",
+          "count": 1
+        },
+        {
+          "crest": "SPELL",
+          "count": 1
+        }
+      ]
+    }
+  }
+]

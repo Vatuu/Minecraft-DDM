@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DDM">
+    <output-path>D:/Users/lordv/Desktop/Test Server/lobby/plugins</output-path>
+    <root id="archive" name="DDM.jar">
+      <element id="library" level="project" name="Maven: com.google.code.gson:gson:2.8.2" />
+      <element id="module-output" name="DungeonDiceMonsters" />
+    </root>
+  </artifact>
+</component>
